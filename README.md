@@ -1,0 +1,2 @@
+# WordleR
+Wordle Game  +  solver  
